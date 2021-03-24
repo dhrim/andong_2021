@@ -1,6 +1,7 @@
 # Linux 실습 환경
 
-https://www.webminal.org
+- https://www.webminal.org
+- https://copy.sh/v86/?profile=linux26
 
 
 # Linux 디렉토리 관련
