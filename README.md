@@ -15,22 +15,14 @@
 ## 2일차(2021/03/18)
 
 - 딥러닝 용어의 이해 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
-- linux 기초 : [linux.md](material/linux.md)
-- colab 사용법 익히기
 
 <br>
 
 
 ## 3일차(2021/03/24)
 
-- Keras를 사용한 딥러닝 구현 #1 : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras.ipynb)
-    - 표준 Keras 딥러닝 코드
-    - 로스 보기
-    - 은닉층과 노드 수
-    - trian, test 데이터 분리
-    - batch size와 학습
-    - 데이터 수와 학습
-    - normalization
+- linux 기초 : [linux.md](material/linux.md)
+- colab 사용법 익히기
 
 <br>
 
@@ -38,19 +30,34 @@
 ## 4일차(2021/03/25)
 
 - Keras를 사용한 딥러닝 구현 #1 : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras.ipynb)
-    - 모델 저장과 로딩
-    - 웨이트 초기값
-    - 노이즈 내구성
-    - GPU 설정
-    - 데이터 수와 overfitting
-    - overfitting 처리하기
-    - callback
-    - 다양한 입출력
+    - 표준 Keras 딥러닝 코드 : [dnn_in_keras_minimun.ipynb](material/deep_learning/dnn_in_keras_minimun.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_minimun.ipynb)
+    - 로스 보기 : [dnn_in_keras_loss.ipynb](material/deep_learning/dnn_in_keras_loss.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_loss.ipynb)
+    - 은닉층과 노드 수 : [dnn_in_keras_layer_and_node.ipynb](material/deep_learning/dnn_in_keras_layer_and_node.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_layer_and_node.ipynb)
+    - batch size와 학습 : [dnn_in_keras_batch.ipynb](material/deep_learning/dnn_in_keras_batch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_batch.ipynb)
+    - 에폭 수와 학습 : [dnn_in_keras_epoch.ipynb](material/deep_learning/dnn_in_keras_epoch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_epoch.ipynb)
+    - 데이터 수와 학습 : [dnn_in_keras_data_size.ipynb](material/deep_learning/dnn_in_keras_data_size.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_data_size.ipynb)
+    - 데이터 섞기 : [dnn_in_keras_shuffle.ipynb](material/deep_learning/dnn_in_keras_shuffle.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_shuffle.ipynb)
+    - 랜덤 데이터 : [dnn_in_keras_random.ipynb](material/deep_learning/dnn_in_keras_random.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_random.ipynb)
+    - normalization : [dnn_in_keras_normalization.ipynb](material/deep_learning/dnn_in_keras_normalization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_normalization.ipynb)
 
 <br>
 
 
 ## 5일차(2021/03/31)
+
+- Keras를 사용한 딥러닝 구현 #1 : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras.ipynb)
+    - 모델 저장과 로딩 : [dnn_in_keras_save.ipynb](material/deep_learning/dnn_in_keras_save.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_save.ipynb)
+    - 웨이트 초기값 : [dnn_in_keras_weight_init.ipynb](material/deep_learning/dnn_in_keras_weight_init.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_weight_init.ipynb)
+    - 노이즈 내구성 : [dnn_in_keras_noise.ipynb](material/deep_learning/dnn_in_keras_noise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_noise.ipynb)
+    - GPU 설정 : [dnn_in_keras_gpu.ipynb](material/deep_learning/dnn_in_keras_gpu.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_gpu.ipynb)
+    - overfitting 처리하기 : [dnn_in_keras_overfitting.ipynb](material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+    - callback : [dnn_in_keras_callback.ipynb](material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
+    - 다양한 입출력 : [dnn_in_keras_multi_input_output.ipynb](material/deep_learning/dnn_in_keras_multi_input_output.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_in_keras_multi_input_output.ipynb)
+
+<br>
+
+
+## 6일차(2021/04/01)
 
 - 분류기로서의 DNN
     - 속성 데이터 IRIS 분류 : [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
@@ -61,7 +68,7 @@
 <br>
 
 
-## 6일차(2021/04/01)
+## 7일차(2021/04/07)
 
 - CNN 이해 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
 - 영상 분류기로서의 CNN
@@ -73,7 +80,7 @@
 <br>
 
 
-## 7일차(2021/04/07)
+## 8일차(2021/04/08)
 
 - Data Augmentation : [data_augmentation.ipynb](material/deep_learning/data_augmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/data_augmentation.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
@@ -81,14 +88,15 @@
 <br>
 
 
-## 8일차(2021/04/08)
+## 9일차(2021/04/14)
 
 - 커스텀 데이터 VGG 데이터 분류 실습 : [real_practice_glaucoma_classification.ipynb](material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
 
 <br>
 
 
-## 9일차(2021/04/14)
+## 10일차(2021/04/15)
+
 
 - 영상 분할(Segementation)
     - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/unet_segementation.ipynb)
@@ -98,7 +106,7 @@
 <br>
 
 
-## 10일차(2021/04/15)
+## 11일차(2021/04/28)
 
 - AutoEncoder 실습 : [autoencoder.ipynb](material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/autoencoder.ipynb)
 - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
@@ -108,16 +116,10 @@
 <br>
 
 
-## 11일차(2021/04/28)
-
-- 강화학습 이해 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
-- 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
-
-<br>
-
-
 ## 12일차(2021/04/29)
 
+- 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
+- 강화학습 이해 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
 - GAN의 이해 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), 
 - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/wgan_gp_mnist.ipynb)
 - Conditional GAN의 이해 : 
