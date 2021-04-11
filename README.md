@@ -150,6 +150,7 @@
 - 서버 설치 기록 : [2019-10-17_setup_server.pdf](material/env/2019-10-17_setup_server.pdf)
 - GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](material/env/GCP_VM_and_Colab.pdf)
 - TensorFlow 홈 tutorial에서 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
+- AutoEncoder를 사용한 CIFAR10 노이즈 제거 : [autoencoder_noise_removing_cifar10.ipynb](material/deep_learning/autoencoder_noise_removing_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/autoencoder_noise_removing_cifar10.ipynb)
 
 
 <br>
