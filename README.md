@@ -151,7 +151,9 @@
 - GCP에 VM 생성하고 Colab 연결 : [GCP_VM_and_Colab.pdf](material/env/GCP_VM_and_Colab.pdf)
 - TensorFlow 홈 tutorial에서 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
 - AutoEncoder를 사용한 CIFAR10 노이즈 제거 : [autoencoder_noise_removing_cifar10.ipynb](material/deep_learning/autoencoder_noise_removing_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/autoencoder_noise_removing_cifar10.ipynb)
-
+- 포즈 추출 실습 : [pose_extraction_using_open_pose.ipynb](material/deep_learning/pose_extraction_using_open_pose.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/pose_extraction_using_open_pose.ipynb)
+  - 사용 템플릿 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
+  - web cam + colab 포즈 추출 실습 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
 
 <br>
 
