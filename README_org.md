@@ -131,6 +131,7 @@
 
 - GAN
     - GAN의 이해 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), 
+        - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](material/deep_learning/deep_learning_anomaly_detection.pptx)
     - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/andong_2021/blob/master/material/deep_learning/wgan_gp_mnist.ipynb)
     - Conditional GAN의 이해 : 
     - Cycle GAN의 이해 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
@@ -187,6 +188,7 @@
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - yolo를 사용한 실시간 불량품 탐지 : https://drive.google.com/file/d/194UpsjG7MyEvWlmJeqfcocD-h-zy_4mR/view?usp=sharing
 - YOLO를 사용한 자동차 번호판 탐지 : https://drive.google.com/file/d/1jlKzCaKj5rGRXIhwMXtYtVnx_XLauFiL/view?usp=sharing
+- 딥러닝 이상탐지 : [deep_learning_anomaly_detection.pptx](material/deep_learning/deep_learning_anomaly_detection.pptx)
 - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](material/deep_learning/anomaly_detection_using_gan.pptx)
 - 이상탐지 동영상 : [drillai_anomaly_detect.mp4](material/deep_learning/drillai_anomaly_detect.mp4)
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
